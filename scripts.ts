@@ -1,3 +1,4 @@
+// Single function definition
 function displayMessage(): void {
   document.getElementById("message")!.textContent =
     "Hello, this is a sample message!";
